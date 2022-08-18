@@ -7,6 +7,10 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masoodhesami/react-code-section-lib"
+  },
   "engines": {
     "node": ">=10"
   },
@@ -37,7 +41,12 @@
   "description": "A package for showing code blocks in react ^_^",
   "author": "Masoud Hesami",
   "module": "dist/react-code-section-lib.esm.js",
-  "keywords": ["react", "components", "code-block","code-section"],
+  "keywords": [
+    "react",
+    "components",
+    "code-block",
+    "code-section"
+  ],
   "size-limit": [
     {
       "path": "dist/react-code-section-lib.cjs.production.min.js",
