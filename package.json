@@ -34,8 +34,10 @@
     "trailingComma": "es5"
   },
   "name": "react-code-section-lib",
+  "description": "A package for showing code blocks in react ^_^",
   "author": "Masoud Hesami",
   "module": "dist/react-code-section-lib.esm.js",
+  "keywords": ["react", "components", "code-block","code-section"],
   "size-limit": [
     {
       "path": "dist/react-code-section-lib.cjs.production.min.js",
